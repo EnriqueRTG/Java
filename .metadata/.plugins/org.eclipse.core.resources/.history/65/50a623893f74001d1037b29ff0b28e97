@@ -1,0 +1,14 @@
+package java_primeros_pasos;
+
+public class TestVariables {
+	
+	public static void main (String[] args) {
+	
+		System.out.println("Hola nuevo test");
+		
+		int edad = 29;
+		
+		System.out.println(edad);
+	
+	}
+}

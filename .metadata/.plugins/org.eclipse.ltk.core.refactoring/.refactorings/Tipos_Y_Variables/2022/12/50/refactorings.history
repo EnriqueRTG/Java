@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;TestVariables.java&apos; to &apos;java_primeros_pasos/src/java_primeros_pasos&apos;&#x0D;&#x0A;- Original project: &apos;Tipos_Y_Variables&apos;&#x0D;&#x0A;- Destination element: &apos;java_primeros_pasos/src/java_primeros_pasos&apos;&#x0D;&#x0A;- Original element: &apos;TestVariables.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=java_primeros_pasos/src&lt;java_primeros_pasos" element1="/src&lt;{TestVariables.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1670204823596" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,21 @@
+package java_primeros_pasos;
+
+public class TestConversion {
+	
+	public static void main (String[] args) {
+		
+		float puntoFlotante = 3.14F;
+		
+		double salario = 1270.50;
+		int valor = (int) salario;
+		System.out.println(valor);
+		
+		double valor1 = 27.90;
+		double valor2 = 432.12;
+		double valor3 = -98.54;
+		double total = valor1 + valor2 + valor3;
+		System.out.println((float) total);
+		
+	}
+ 
+}
